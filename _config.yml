@@ -21,14 +21,14 @@ repository               : "CassDM.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "images/Screen Shot 2021-01-06 at 4.39.28 PM.png"
+  name             : "Cassandra D'Amico-Mazza"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "d.m.cassandra@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
